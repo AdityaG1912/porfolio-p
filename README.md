@@ -9,7 +9,7 @@
 
 ## 🔗 Live Demo
 ```bash
-https://your-portfolio-url.vercel.app
+https://porfolio-p.vercel.app/
 
 <h2 align="center">🚀 Tech Stack</h2> <p align="center"> <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" /> <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" /> <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge" /> <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge" /> </p>
 
