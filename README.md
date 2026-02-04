@@ -1,40 +1,3 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-
-## Getting Started
-
-First, run the development server:
-
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
-
 <h1 align="center">🌐 Developer Portfolio</h1>
 
 <p align="center">
@@ -47,4 +10,70 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 ## 🔗 Live Demo
 ```bash
 https://your-portfolio-url.vercel.app
+
+<h2 align="center">🚀 Tech Stack</h2> <p align="center"> <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" /> <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" /> <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge" /> <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge" /> </p>
+
+✨ Features
+
+✔️ Built with Next.js App Router
+✔️ Fully responsive across devices
+✔️ Projects & experience showcase
+✔️ Clean UI with smooth animations
+✔️ Optimized fonts and performance
+✔️ SEO-friendly structure
+
+📂 Project Structure
+```bash
+portfolio/
+├── app/
+│   ├── page.tsx
+│   ├── layout.tsx
+│   └── globals.css
+│
+├── components/
+│   ├── Navbar.tsx
+│   ├── Hero.tsx
+│   ├── Projects.tsx
+│   ├── Contact.tsx
+│   └── Footer.tsx
+│
+├── public/
+│   └── assets/
+│
+├── styles/
+├── package.json
+└── README.md
+```
+
+⚙️ Setup Instructions
+1️⃣ Clone the Repository
+
+```bash
+git clone https://github.com/yourusername/portfolio.git
+cd portfolio
+```
+
+2️⃣ Install Dependencies
+```bash
+npm install
+```
+
+3️⃣ Run Development Server
+```bash
+npm run dev
+
+Open in browser: http://localhost:3000
+```
+
+🚀 Deployment
+
+This project is deployed using Vercel.
+
+Steps:
+
+Push repository to GitHub
+
+Import project in Vercel
+
+Deploy with default settings
 
