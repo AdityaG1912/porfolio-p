@@ -12,13 +12,13 @@ interface Project {
 export function Projects() {
   const projects: Project[] = [
     {
-      title: "E-Commerce Platform",
+      title: "Chat-App Platform",
       description:
-        "A full-featured e-commerce platform with product catalog, shopping cart, and secure checkout. Built with Next.js and Stripe integration.",
-      technologies: ["Next.js", "React", "TypeScript", "Stripe", "PostgreSQL"],
+        "A full-featured Real-time Messaging • Groups • Typing Indicators • Online Users",
+      technologies: ["React", "Socket IO","Express", "MongoDb", "Node"],
       thumbnail: "",
-      liveLink: "#",
-      githubLink: "#",
+      liveLink: "https://chat-stream-ni9r.onrender.com/",
+      githubLink: "https://github.com/AdityaG1912/ChatApplication",
     },
     {
       title: "Task Management App",
